@@ -1,7 +1,7 @@
 import requests
 
 # Define the city and your OpenWeatherMap API key
-city_name ='Vijayawada'
+city_name ='Bapatla'
 API_Key ='aba051842297f30d3c9367de6f1ffe4a'  # Update your API here
 
 # Construct the API request URL with city, API key, and metric units
